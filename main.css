@@ -1,0 +1,41 @@
+/* Built-in Selectors */
+
+
+
+
+/* Custom Classes */
+
+
+
+
+/* Floats */
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+/* Positions */ 
+
+.static {
+    position: static;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.fixed {
+    position: fixed;
+}
